@@ -1,4 +1,4 @@
-## Expense Tracker
+# Expense Tracker
 
 A simple yet powerful expense tracker using HTML , CSS and  JavaScript , to keep track of your daily expenses and monitor your expense. It includes features to add new expenses ,calculate totals and display the data in a clean and a user-friendly format.
 
